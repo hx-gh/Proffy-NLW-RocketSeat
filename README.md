@@ -18,7 +18,7 @@
   </sub>
 </div>
 <br/>
-# :computer: Technologies
+:computer: #Technologies
 This project was made using the follow technologies:
 
 * [Typescript](https://www.typescriptlang.org/)      
